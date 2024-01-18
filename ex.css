@@ -1,0 +1,16 @@
+ul.menu {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+ul.menu li {
+    display: inline-block;
+    width: 33%;
+}
+
+ul.menu a {
+    display: block;
+    width: 100%;
+    padding: 0.2em 0;
+}
